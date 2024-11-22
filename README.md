@@ -12,3 +12,6 @@ API UNIT TEST
 
 
 Frontend (VueJS) - 
+
+![image](https://github.com/user-attachments/assets/f7d0fa7e-6f09-458d-895b-ff7fad4f8733)
+
